@@ -1,0 +1,6 @@
+@HumanShop_HostAddress = http://localhost:5041
+
+GET {{HumanShop_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

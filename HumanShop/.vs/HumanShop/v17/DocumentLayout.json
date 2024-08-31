@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\helper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\extensions\\datetimeextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\extensions\\datetimeextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\services\\interface\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\services\\interface\\iuserrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\services\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\services\\interface\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\humanshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\humanshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\dtos\\photodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|c:\\users\\user\\desktop\\asp\\shopee\\humanshop\\humanshop\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\entities\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\services\\implementation\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\services\\implementation\\userrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\services\\implementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\services\\implementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\data\\userseeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\migrations\\20240819040039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\migrations\\20240819040039_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\migrations\\20240828013931_add photo entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\migrations\\20240828013931_add photo entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\humanshop\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:humanshop\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240829080529_Seed data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C6A2359-6151-4B44-8679-51DC18E885E5}|HumanShop\\HumanShop.csproj|solutionrelative:HumanShop\\Migrations\\20240829080529_Seed data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HumanShop\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:32:05.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatetimeExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Extensions\\DatetimeExtentions.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Extensions\\DatetimeExtentions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Extensions\\DatetimeExtentions.cs",
+              "RelativeToolTip": "HumanShop\\Extensions\\DatetimeExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:09:38.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HumanShop\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:35:43.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HumanShop\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:35:40.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Helper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Helper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Helper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "HumanShop\\Helper\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:20:11.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Interface\\IUserRespository.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Services\\Interface\\IUserRespository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Interface\\IUserRespository.cs",
+              "RelativeToolTip": "HumanShop\\Services\\Interface\\IUserRespository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:31:47.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Program.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Program.cs",
+              "RelativeToolTip": "HumanShop\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:18:06.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Entities\\AppUser.cs",
+              "RelativeToolTip": "HumanShop\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:03:17.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\PhotoDTO.cs",
+              "RelativeDocumentMoniker": "HumanShop\\DTOs\\PhotoDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\PhotoDTO.cs",
+              "RelativeToolTip": "HumanShop\\DTOs\\PhotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:07:43.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MemberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\MemberDTO.cs",
+              "RelativeDocumentMoniker": "HumanShop\\DTOs\\MemberDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\MemberDTO.cs",
+              "RelativeToolTip": "HumanShop\\DTOs\\MemberDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T03:03:01.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Interface\\ITokenService.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Services\\Interface\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Interface\\ITokenService.cs",
+              "RelativeToolTip": "HumanShop\\Services\\Interface\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:55:20.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Entities\\Photo.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Entities\\Photo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Entities\\Photo.cs",
+              "RelativeToolTip": "HumanShop\\Entities\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:22:26.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Implementation\\TokenService.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Services\\Implementation\\TokenService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Implementation\\TokenService.cs",
+              "RelativeToolTip": "HumanShop\\Services\\Implementation\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:33:46.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HumanShop.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\HumanShop.csproj",
+              "RelativeDocumentMoniker": "HumanShop\\HumanShop.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\HumanShop.csproj",
+              "RelativeToolTip": "HumanShop\\HumanShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T14:35:10.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRespository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Implementation\\UserRespository.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Services\\Implementation\\UserRespository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Services\\Implementation\\UserRespository.cs",
+              "RelativeToolTip": "HumanShop\\Services\\Implementation\\UserRespository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:56:07.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\Seed.cs",
+              "RelativeToolTip": "HumanShop\\Data\\Seed.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:19:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserSeedData.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\UserSeedData.json",
+              "RelativeDocumentMoniker": "HumanShop\\Data\\UserSeedData.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\UserSeedData.json",
+              "RelativeToolTip": "HumanShop\\Data\\UserSeedData.json",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAowL8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T01:50:15.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240829080529_Seed data.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240829080529_Seed data.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Migrations\\20240829080529_Seed data.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240829080529_Seed data.cs",
+              "RelativeToolTip": "HumanShop\\Migrations\\20240829080529_Seed data.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T08:05:29.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HumanShop\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\WeatherForecast.cs",
+              "RelativeToolTip": "HumanShop\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:36:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "HumanShop\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAewAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T07:38:40.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240819040039_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240819040039_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Migrations\\20240819040039_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240819040039_InitialCreate.cs",
+              "RelativeToolTip": "HumanShop\\Migrations\\20240819040039_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:43:13.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240828013931_Add Photo entity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240828013931_Add Photo entity.cs",
+              "RelativeDocumentMoniker": "HumanShop\\Migrations\\20240828013931_Add Photo entity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\Migrations\\20240828013931_Add Photo entity.cs",
+              "RelativeToolTip": "HumanShop\\Migrations\\20240828013931_Add Photo entity.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwFYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T01:39:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "HumanShop\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ASP\\Shopee\\HumanShop\\HumanShop\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "HumanShop\\DTOs\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:11:26.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
