@@ -40,7 +40,9 @@ namespace HumanShop.Controllers
         [HttpPost("login")]
         public async Task<ActionResult<UserDTO>> Login([FromBody] LoginDTO login)
         {
-            var user = await dBContext.appUsers.FirstOrDefaultAsync(x => x.UserName == login.Username);
+            var user = await dBContext.appUsers
+                .Include(p => p.Photos)
+                .FirstOrDefaultAsync(x => x.UserName == login.Username);
             if(user == null) {
                 return Unauthorized("Invalid username");
             }
@@ -55,7 +57,8 @@ namespace HumanShop.Controllers
             return new UserDTO
             {
                 Username = user.UserName,
-                Token = tokenService.CreateToken(user)
+                Token = tokenService.CreateToken(user),
+                PhotoUrl = user.Photos.FirstOrDefault(x => x.IsMain)?.URL
             };
         }
 

@@ -1,4 +1,5 @@
 using HumanShop.Data;
+using HumanShop.Helper;
 using HumanShop.Services.Implementation;
 using HumanShop.Services.Interface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -25,6 +26,7 @@ namespace HumanShop
             });
             builder.Services.AddScoped<ITokenService, TokenService>();
             builder.Services.AddScoped<IUserRespository, UserRespository>();
+            builder.Services.AddScoped<IPhotoService, PhotoService>();
             builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(option =>
                 {
@@ -38,6 +40,7 @@ namespace HumanShop
                     };
                 });
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+            builder.Services.Configure<CloudinarySettings>(builder.Configuration.GetSection("CloudinarySettings"));
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
